@@ -1,4 +1,4 @@
-# <span style="color:red;">🚀 Veltra Project</span>
+# <span style="color:red;">🌐 Veltra Project (Social Media)</span>
 
 ## <span style="color:red;">📚 Mục lục</span>
 - [<span style="color:red;">Tên dự án và chủ đề</span>](#tên-dự-án-và-chủ-đề)
