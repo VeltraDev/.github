@@ -18,21 +18,25 @@
 
 ## <span id="lấy-ý-tưởng-dự-án" style="color:red;">💡 Lấy ý tưởng dự án</span>
 ### <span style="color:blue;">Các tính năng chính:</span>
-- **Đăng ký, đăng nhập tài khoản**.
-- **Chat tin nhắn thời gian thực**:
+- **Đăng ký, đăng nhập, đăng xuất, xác thực tài khoản qua email,...**.
+- **Chat tin nhắn theo thời gian thực**:
   - Tin nhắn văn bản.
   - Biểu tượng "đang gõ" hiển thị khi người dùng khác đang nhập tin nhắn.
   - Hỗ trợ Emoji.
   - Upload file: hình ảnh, PDF, Word,...
 - **Thông báo đẩy (Push Notifications)**: Hiển thị avatar của người dùng lên đầu cuộc trò chuyện khi có tin nhắn mới.
 - **Tìm kiếm bạn bè và cuộc trò chuyện**.
-- **Gọi video call**:
+- **Gọi video call theo thời gian thực**: (tính năng còn đang phát triển chưa hoàn thiện)
   - Gọi 1-1 hoặc nhóm nhiều người.
   - Giao diện hiển thị khi có cuộc gọi đến.
 - **Nhóm chat**: Tạo nhóm với khả năng quản lý thành viên, đặt tên nhóm và thay đổi hình đại diện nhóm.
+- **Bài viết và bình luận**:
+  - Đăng tải bài viết của bản thân: chia sẻ cảm nghĩ và hình ảnh.
+  - Xem bài viết của người khác, có thể thả cảm xúc lên bài viết của mình và của người khác.
+  - Bình luận vào bài viết của bản thân hoặc của người khác, có thể thả cảm xúc lên bình luận và các bình luận có thể lồng nhau.
 
 ### <span style="color:blue;">Các tính năng có thể phát triển thêm (nếu có thời gian):</span>
-- Các tính năng nâng cao khác có thể sẽ được phát triển thêm khi có thời gian và tài nguyên.
+- Đổi màu theme trong giao diện chat: dark/light mode và còn nhiều màu khác nữa.
 
 ## <span id="nguyên-tắc-làm-việc" style="color:red;">📏 Nguyên tắc làm việc</span>
 
