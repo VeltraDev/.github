@@ -14,7 +14,7 @@
 ## <span id="công-nghệ-sử-dụng" style="color:red;">🛠️ Công nghệ sử dụng</span>
 - **Front-end**: React.js, Redux, Tailwind CSS, Axios, TypeScript.
 - **Back-end**: Nest.js, MySQL (sử dụng TypeORM), Socket.IO, WebRTC.
-- **Others**: AWS (EC2, RDS, S3), Git & GitHub, GitHub Actions (CI/CD).
+- **Others**: AWS (EC2, S3), Aiven, Git & GitHub, GitHub Actions (CI/CD).
 
 ## <span id="lấy-ý-tưởng-dự-án" style="color:red;">💡 Lấy ý tưởng dự án</span>
 ### <span style="color:blue;">Các tính năng chính:</span>
